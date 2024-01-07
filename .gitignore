@@ -3,3 +3,5 @@
 
 # Unignore all files with extensions
 !*.*
+
+tempCodeRunnerFile.cpp
